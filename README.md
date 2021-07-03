@@ -6,6 +6,6 @@
 
 🥕 I took data for the last five years from the Federal State Statistical Agency. 
 
-🥕 Then I cleaned the data in pandas and plottet a chart.
+🥕 Then I cleaned the data in pandas and plotted a chart.
 
 🥕 Then I saved the chart as a pdf and made some cosmetic changes in Adobe Illustrator.
